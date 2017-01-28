@@ -23,7 +23,7 @@ The idea of CrowdMarket is quite simple. It's a cross of social media site and e
 
 ![screenshot](https://github.com/michkles/crowd_market/blob/master/readme_img/10.png)
 
-
+![screenshot](https://github.com/michkles/crowd_market/blob/master/readme_img/trello.png)
 
 
 ## Setup
